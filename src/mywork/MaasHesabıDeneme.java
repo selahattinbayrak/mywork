@@ -19,7 +19,7 @@ public class MaasHesabıDeneme {
 		double toplamapaket=scan.nextDouble();
 		
 		
-		System.out.println("1. Slot Dağıtım Tutarı : " + birincislot(paket1));
+		System.out.println("1. Slot Dağıtım Miktarı : " + birincislot(paket1));
 		System.out.println("2. Slot Dağıtım Tuatarı : " +ikincislot(paket2));
 		System.out.println("İade Paket Toplama Tutarı : " + iadepaket(iade));
 		System.out.println("MP paket toplama tutarı : " + toplamapaket(toplamaNokta, toplamapaket));
